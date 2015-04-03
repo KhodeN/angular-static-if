@@ -1,0 +1,26 @@
+{
+  "name": "ng-static-if",
+  "homepage": "https://github.com/KhodeN/angular-static-if",
+  "_resolution": {
+    "type": "branch",
+    "branch": "patch-1"
+  },
+  "_source": "https://github.com/KhodeN/angular-static-if.git",
+  "_target": "patch-1",
+  "_originalSource": "git+https://github.com/KhodeN/angular-static-if",
+  "main": "angular-static-if.js",
+  "version": "0.0.0",
+  "authors": [
+    "Artem Berezin <artem@emply.ru>",
+    "Guro Bokum <guro@emply.ru>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples"
+  ]
+}
